@@ -5,7 +5,7 @@ To install the required Python packages use
 pip install -r requirements.txt
 ```
 
-Subsequently you can run the solution using
+Subsequently, you can run the solution using
 ```Python
 python3 solution.py
 ```
